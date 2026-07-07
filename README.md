@@ -280,7 +280,7 @@ Delivered a complete classical ML classification project with a strong emphasis 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yshubhaamm&theme=radical&no-frame=true&background=0B0016&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yshubhaamm&theme=radical&no-frame=true&background=0B0016&row=2&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
