@@ -276,7 +276,7 @@ Delivered a complete classical ML classification project with a strong emphasis 
 
 ---
 
-### 🏆 GitHub Trophies
+<!--### 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -284,7 +284,7 @@ Delivered a complete classical ML classification project with a strong emphasis 
 
 </div>
 
----
+---    -->
 
 ### 📈 Contribution Activity
 
